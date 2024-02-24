@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repository contains a Google Colab notebook that utilizes the Gemini-Pro AI model to generate the HTML, CSS, and JavaScript `onclick()` function for a button. The javascript hardly ever works, but sometimes it generates interesting results.  
+This repository contains a Google Colab notebook that utilizes the Gemini-Pro AI model to generate the HTML, CSS, and JavaScript `onclick()` function for a button. The javascript hardly ever works, but sometimes it generates interesting results.  The notebook contains a few examples of this. 
 
 **Prerequisites:**
 
