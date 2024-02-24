@@ -52,4 +52,6 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ---
 
-Let us know if you'd like any modifications to this README!
+**Join me on Telegram!** 
+My username is: @ROCKMURPHY
+Click here to connect: https://t.me/ROCKMURPHY
