@@ -1,3 +1,4 @@
+![Cat, Surprised](cat-surprised.png)
 # **Gemini-Pro Powered Crazy Button Generator**
 
 ---
