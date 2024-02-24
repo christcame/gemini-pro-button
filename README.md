@@ -1,7 +1,3 @@
-﻿# gemini-pro-button
-
- Here's a README.md file for your GitHub repository, tailored for the specifics of your project.
-
 **Title:** Gemini-Pro Powered Crazy Button Generator
 
 **Description:**
