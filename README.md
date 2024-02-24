@@ -53,5 +53,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ---
 
 **Join me on Telegram!** 
-My username is: @ROCKMURPHY
-Click here to connect: https://t.me/ROCKMURPHY
+[@ROCKMURPHY](https://t.me/ROCKMURPHY) 
